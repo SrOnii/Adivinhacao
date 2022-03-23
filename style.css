@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    margin: 20px 0;
+}
+
+h1{
+    color: #4F4F4F;
+}
+
+h3{
+    margin: 5px;
+    color: #FF6347;
+}
+
+.divinput{
+    margin: auto;
+    max-width: 500px;
+    background-color: #4F4F4F;
+    margin-bottom: 8px;
+    padding: 10px;
+}
+
+button {
+    width: 90px;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#resultado{
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px 0;
+    border-radius: 10px;
+    width: 200px;
+}
+
+
+
